@@ -4,8 +4,8 @@ setup(
     name="dbms",
     version="1.0.0",
     description="A simple database management system for ICT training courses.",
-    author="Your Name",
-    author_email="your_email@example.com",
+    author="Gen Fernandez",
+    author_email="genrevepfernandez@gmail.com",
     packages=find_packages(),
     python_requires=">=3.6",
     entry_points={
